@@ -1,3 +1,3 @@
 # test2igr2
 ## opis
-Edycja przez Szymiczka1
+Edycja przez Jakub Kubec
